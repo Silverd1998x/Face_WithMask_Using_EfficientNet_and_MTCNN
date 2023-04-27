@@ -1,2 +1,7 @@
-# Face_WithMask_Using_EfficientNet_and_MTCNN
-Nhận diện gương mặt với khẩu trang
+# Nhận diện gương mặt với khẩu trang
+
+## 1. Khởi tạo môi trường
+
+```
+conda create -n FaceWithMask python=3.10
+```
