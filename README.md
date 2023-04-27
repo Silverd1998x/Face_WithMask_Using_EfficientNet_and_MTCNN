@@ -26,7 +26,7 @@ pip install -r requirement.txt
     
 Bạn có thể thấy, các tập dữ liệu đã được chia nhỏ thành 2 thư mục riêng biệt, đó là **có đeo khẩu trang (with mask)** và **không đeo khẩu trang (without mask)**. Chúng có thể được chứa trong các thư mục lớn hơn nữa là train, validation và test; nhưng điều này không đáng kể, bạn chỉ cần lưu ý 2 thư mục đã nêu ở trên.
 
-2. Bạn đem các ảnh tải được bỏ vào trong thư mục **dataset** theo cấu trúc sau:
+2. Bạn khởi tạo thư mục `dataset` và đem các ảnh tải được bỏ vào trong thư mục đó theo cấu trúc sau:
 
 ```
 dataset <- thư mục chứa ảnh dữ liệu cho dự án
