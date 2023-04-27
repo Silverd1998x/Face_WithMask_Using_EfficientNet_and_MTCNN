@@ -39,3 +39,6 @@ dataset <- thư mục chứa ảnh dữ liệu cho dự án
 ```
 
 **Lưu ý:** Có thể sẽ có một vài tấm ảnh bị trùng giữa các nguồn dữ liệu khác nhau, bạn chỉ cần bỏ qua quá trình sao chép các tấm ảnh bị trùng này vào tập **dataset** là được.
+
+## 5. Chạy chương trình
+Run file `main.ipynb` ==> Xem kết quả đạt được
